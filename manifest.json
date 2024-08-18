@@ -1,9 +1,9 @@
 {
 	"id": "move-by-word",
 	"name": "Move by Word",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Adds move by word commands and also forward kill word command",
+	"description": "Adds move by word commands and also forward delete word command",
 	"author": "sinefabula",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
